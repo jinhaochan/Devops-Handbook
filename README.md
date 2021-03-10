@@ -3,6 +3,8 @@ Personal notes on the book
 
 ## First Way: Principles of Flow
 
+This First Way elaborates on principles for movement from left to right of the value chain, and how to make it go faster and smoother.
+
 1. Make all work visible to everyone (e.g. usage of Kanboard)
 2. Limit Work-In-Progress (WIP). Stop Starting, Start Finishing!
 3. Reduce Batch Sizes. Do work in smaller batch sizes, instead of a big-bang approach
