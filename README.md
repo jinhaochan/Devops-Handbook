@@ -52,4 +52,13 @@ There are two types of customers
 1. The external paying customer (of the product)
 2. ***The internal consuming customer (downstream of your work). This is the more important customer***
 
+## Third Way: Principles of Continual Learning and Experimentation
+
+The First Way was from left to right, and the Second Way was from right to left. The Third Way goes all around, and speaks more about culture, more specifically one of learning and experimentation. ***This leads to creation of individual knowledge, which must eventually transits to global knowledge***
+
+Values:
+1. High trust
+2. Life-long learners
+3. Risk taking
+
 
