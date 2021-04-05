@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Devops-Handbook
+Personal notes on the book
 
-You can use the [editor on GitHub](https://github.com/jinhaochan/Devops-Handbook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## First Way: Principles of Flow
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This First Way elaborates on principles for movement from left to right of the value chain, and how to make it go faster and smoother.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinhaochan/Devops-Handbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Make all work visible to everyone (e.g. usage of Kanboard)
+2. Limit Work-In-Progress (WIP). Stop Starting, Start Finishing!
+3. Reduce Batch Sizes. Do work in smaller batch sizes, instead of a big-bang approach
+4. Reduce number of work handoffs. Context may get lost in transition. We can do this by automating most stuff.
+5. Identify and elevate constraints. Some common constraints are:
+    - Environment Creation: Creating Production or Testing environment should be automated
+    - Code Deployment: Deploying code should be automated and self-service
+    - Test setup and Run: Running test cases should be automated
+    - Overly Tight Architecture: How easy is it to commit changes without breaking stuff?
+6. Eliminate Hardship and Waste in the Valuestream
+    - Partially Done Work: See (2.) Limiting WIP
+    - Extra Processes: Unecessary reviews, approvals, or documentation that do not add value
+    - Extra Features: Unnecessary features that do not add value (Gold-Plating software)
+    - Task Switching: see (2.) Limiting WIP
+    - Waiting: see (4.) Reducing Handoffs. Reducing waiting time in the value chain
+    - Motion: see (4.) Reducing Handoffs. Make movement in the value chain seamless
+    - Defects: Incorrect or missing information slows down the value chain
+    - Non-Standard/Manual work: Automated the boring stuff
+    - Heroics: Unreasonable workloads, or one-man carry
