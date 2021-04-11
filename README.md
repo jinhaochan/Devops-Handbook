@@ -57,8 +57,24 @@ There are two types of customers
 The First Way was from left to right, and the Second Way was from right to left. The Third Way goes all around, and speaks more about culture, more specifically one of learning and experimentation. ***This leads to creation of individual knowledge, which must eventually transits to global knowledge***
 
 Values:
-1. High trust
-2. Life-long learners
-3. Risk taking
+- High trust
+- Life-long learners
+- Risk taking
+
+1. Organizational culture of safety and trust 
+    - Dont hoard information, rather, share it freely. Nothing to gain and everything to lose when you hoard
+    - Trim down on rules and processes and turf guarding
+2.Institutionalize improvement of daily work
+    - Invest time in paying techincal debt, and refactoring
+    - Engage in `kaizen blitzes`, which are periods of time to allow the engineers to fix any problems they want (Different from working on what they want)
+3. Transform local discoveries to global discoveries
+    - Convert tacit knowledge into explicit codified knowledge
+    - Shared source code bases, libraries and tools help enable this
+4. Inject Resilience patterns into daily work
+    - Deliberately induce stress to the workflow to see how thing organically adapt to improve
+5.  Leaders to reinforce a learning culture
+    - Leaders are not great for making right decision, but rather, by creating conditions in which the team can discover greatness
+    - A mutual relationship is required because Leaders are not close enough to the work, and workers dont have the context
+    - Establish a True North strategic goals, which in turn will create shorter term goals to meet them
 
 
