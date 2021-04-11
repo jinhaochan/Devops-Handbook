@@ -73,8 +73,23 @@ Values:
 4. Inject Resilience patterns into daily work
     - Deliberately induce stress to the workflow to see how thing organically adapt to improve
 5.  Leaders to reinforce a learning culture
-    - Leaders are not great for making right decision, but rather, by creating conditions in which the team can discover greatness
+    - ***Leaders are not great for making right decision, but rather, by creating conditions in which the team can discover greatness***
     - A mutual relationship is required because Leaders are not close enough to the work, and workers dont have the context
     - Establish a True North strategic goals, which in turn will create shorter term goals to meet them
 
 ## Getting Started
+
+1. Selecting which value streams to start with
+     - Select important projects to transform. Dont try to transform all at once
+     - Demonstate early and small wins to gain confidence
+     - ***Stop throwing bodies, but improve the way you work***
+     - Greenfield vs Brownfield services: New projects vs Exisiting projects
+     - Brownfield projects are usually harder due to the number of technical debts
+     - ***Try to add in the DevOps cycle while its still Greenfield, and not wait till its Brownfield***
+     - Systems of Record vs Systems of Engagment: Storage systems (Backend) or Interactive systems (Frontend)
+     - Start with Early Adopters, Win the Silent Majority, Idenity Holdouts (Resistance)
+3. Undestanding work done
+4. Designing organization and architecture with Conways Law in mind
+5. Enabling Market oriented outcomes through effective collaboration
+6. Protecting and enabling our teams
+
