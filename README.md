@@ -77,4 +77,4 @@ Values:
     - A mutual relationship is required because Leaders are not close enough to the work, and workers dont have the context
     - Establish a True North strategic goals, which in turn will create shorter term goals to meet them
 
-
+## Getting Started
