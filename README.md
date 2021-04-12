@@ -89,7 +89,32 @@ Values:
      - Systems of Record vs Systems of Engagment: Storage systems (Backend) or Interactive systems (Frontend)
      - Start with Early Adopters, Win the Silent Majority, Idenity Holdouts (Resistance)
 3. Undestanding work done
-4. Designing organization and architecture with Conways Law in mind
-5. Enabling Market oriented outcomes through effective collaboration
-6. Protecting and enabling our teams
+    - Once the value stream has been identified, identify the teams involved
+        - Product owner
+        - Developers
+        - QA
+        - Operations
+        - Infosec
+        - Release Managers
+        - Executives
+    - Create a value stream map to make visible all the work required
+        - Identify places where work must wait
+        - Identify places where significant rework is generated or received
+    - Create a dedicated Transformation Team
+        - This team is operational outsides of the rest of the organization
+        - Select generalist people to this team
+        - Select respectful people to this team
+        - Create a separate physical space for this team
+    - Keep the improvement planning horizon short
+        - Dont set long and far reaching improvement goals, but short and achievable in the near term ones
+    - ***Keep 20% of DevOps time for clearing technical debt***
+    - Increase visibility of work
+    - Use tools to reinforce desired behavior
+5. Designing organization and architecture with Conways Law in mind
+    - Conways Law: The organization of a software and the organization of the software teams will be congruent
+    - A team of 4 separate groups will build a software with 4 separate functionalities
+    - ***To keep Conway's Law in mind, we should structure the output first, before structuring the team***
+    - 
+7. Enabling Market oriented outcomes through effective collaboration
+8. Protecting and enabling our teams
 
