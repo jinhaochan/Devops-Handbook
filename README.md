@@ -114,7 +114,58 @@ Values:
     - Conways Law: The organization of a software and the organization of the software teams will be congruent
     - A team of 4 separate groups will build a software with 4 separate functionalities
     - ***To keep Conway's Law in mind, we should structure the output first, before structuring the team***
+6. Organizational Archetypes
+    - Functional Oriented: Group According to expertise
+        - Functional groups tend to have longer lead times due to the coordination between of different groups
+        - Working in such silos prevents the person from seeing the bigger picture
+        - Quality of work from handoffs also suffers
+        - Functional Oriented Organizations optimize for Costs
+    - Matrix Oriented: Functional + Market Oriented. Can get Complex.
+    - Market Oriented: Flat structure. Each cross functional team addresses a feature or service
+        - Cross functional independent teams that service their own demands
+        - Embed the functional engineers into each service team
+        - Market Oriented Organizations optimize for speed
+8. Testing, Operations and Security is the job of everyone, not only a single department
+    - Rotation of job scopes to gain exposure ensures everyone knows how to perform other duties
+10. Protecting and enabling our teams
+    - When a department overspecializes, it creates a silo
+    - Any handoffs between them becomes long and of poor quality
+    - To prevent this, we encourage all engineers to be generalist, through regular role rotations
+    - I-shaped, T-shaped and E-shaped engineers
+11. Don't Fund Projects, Fund Services and Products
+    - Services and Products can be used in multiple projects, whereas a project has an EOL
+12. ***Created Loosely-Coupled Architectures***
+    - Enable small teams to be independently productive and decoupled
+    - Services must be independent as well (Microservices)
+13. Keep Team Sizes Small
+    - Two pizza team rule (5-10 people)
+    - Ensures that the team is clear about the system they are working on
+    - Limits the growth rate of the system, which allows developers to control it
+    - Decentralized power across the teams
+    - Allows team members to step up to leadership roles
+14. Integrate Ops into Devs
+    - This ensures that the Devs are kept in check to produce code that can be operationalized
+    - Create self-service Ops tools so that the Dev can use them
+    - This also allows products created by Dev to be streamlined for Ops, increasing speed of delivery
+    - By created such shared services and common tools, Developers can quickly jump between teams without relearning much
+    - Gives Ops visibility of Devs workflow, vice-versa. This allows both parties to adapt their work to any changes
+
+## Technical Details of the First Way
+
+Implementations from Dev to Ops
+
+1. Creating a foundational pipeline
+    - Ensure that production-like environments are used at every stage of the value stream
+        - This ensures that each step would be streamlined into Ops
+        - This creation must be automated and version controlled
+    - Creating a single source of truth for the repositories
+        - e.g. git for version control
+        - Code, Configuration, Documentation, Artifacts, Scripts, Schemas etc
+    - Make infrastructure easy to rebuild
+        - Don't fix or repair, simply rebuild
+        - Environments and infrastructure must be easy to spin up or down
+    - ***Redefine work that is "DONE", to only when the code can be productionized, not ran locally***
+2. Enable Fast and Reliable Automated Testing
     - 
-7. Enabling Market oriented outcomes through effective collaboration
-8. Protecting and enabling our teams
+   
 
